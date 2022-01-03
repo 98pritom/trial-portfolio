@@ -40,3 +40,19 @@ h1{
     background-position: right;
     padding-right: 100px;
 }
+.orange-color{
+    color: orange;
+}
+.box-shadow{
+    box-shadow: 10px 10px 40px #888888;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
