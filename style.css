@@ -56,3 +56,16 @@ h1{
     background-repeat: no-repeat;
     background-position: left;
 }
+#web-dev-exp{
+    border-left: 7px solid;
+    border-image: linear-gradient(#f6b73c, #4d9f0c); 
+    border-image-slice: 1;  
+}
+#web-dev-exp2{
+    border-left: 7px solid;
+    border-image: linear-gradient(orange,tomato); 
+    border-image-slice: 1;  
+}
+footer p{
+    text-align: center;
+}
